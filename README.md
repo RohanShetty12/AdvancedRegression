@@ -55,5 +55,3 @@ After interpriting our linear regression equation, we see that there are 4 major
 - **Lot Area**
 - **Overall material and finish of the house**
 - **1st floor square feet**
-
-tuation*** also has a serious impact on the rentals. We see that while the weather is clear and sunny, cusotmers tend to rent more compared to on a gloomy, rainy or snowy day. Hence the company needs to attarct customers to use the bikes during such weather situations by either modifying the bikes to make the bikes more ridable during such unpleasent conditions.
