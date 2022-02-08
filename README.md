@@ -40,7 +40,7 @@ The company has collected and shared a data set from the sale of houses in Austr
 ## Outcome of Model Development
 ### Final Equation
 The equation of the best fitted line is:
-SalePrice = 0.307567*GrLivArea + 0.207098*LotArea + 0.156561*OverallQual + 0.130853*1stFlrSF - 0.075735*KitchenAbvGr + 0.072945*YearBuilt + 0.067567*GarageCars + 0.067270*OverallCond - 0.064937*KitchenQualTA + 0.062527*Neighbourhood_StoneBR + 0.061766*Neighbourhood_NoRidge - 0.060925*KitchenQual_FA - 0.059986*Lotshape_IR3 - 0.059970*KitchenQual_GD + 0.058434*Neighborhood_NridgHt
+SalePrice = 0.307567\*GrLivArea + 0.207098\*LotArea + 0.156561\*OverallQual + 0.130853\*1stFlrSF - 0.075735\*KitchenAbvGr + 0.072945\*YearBuilt + 0.067567\*GarageCars + 0.067270\*OverallCond - 0.064937\*KitchenQualTA + 0.062527\*Neighbourhood_StoneBR + 0.061766\*Neighbourhood_NoRidge - 0.060925\*KitchenQual_FA - 0.059986\*Lotshape_IR3 - 0.059970\*KitchenQual_GD + 0.058434\*Neighborhood_NridgHt
 
 ### Interpretation
 - We see that for every 1 unit raise in Above Ground Living Area, SalePrice increases by 0.30 units while keeping the rest of the parameters constant.
